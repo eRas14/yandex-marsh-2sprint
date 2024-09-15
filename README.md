@@ -4,7 +4,7 @@
 ## Документация
 
 - [Чек-листы](https://docs.google.com/spreadsheets/d/1AOIaV2vgZv6fMacB3yLSYOWzBp0hQNROhO1A56GJAI0/edit?gid=899462569#gid=899462569)
-- [Баг Репорты] (https://eras.youtrack.cloud/issues?q=project:%20%7Bau%7D%20and%20%D1%82%D0%B5%D0%B3:%20%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0)
+- [Баг Репорты](https://eras.youtrack.cloud/issues?q=project:%20%7Bau%7D%20and%20%D1%82%D0%B5%D0%B3:%20%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0)
 
 ## Объекты тестирования
 
